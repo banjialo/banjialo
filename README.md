@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @banjialo
-- 👀 I’m  Data Scientist interested in Full Stack Data Science and Web Development using R, Python and React
-- 🌱 My work invovles more of R and Python programming. Currently upskilling in Django and React
+- 👀 I’m a Data Scientist interested
+- 🌱 My work involves more R and Python. Currently upskilling in Django
 - 📫 You can reach me via banji@banjialo.com
 - 🌱 Check out my articles on Medium - https://banjialo.medium.com
 
