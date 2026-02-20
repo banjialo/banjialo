@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @banjialo
-- 👀 I’m a Data Scientist interested
+- 👀 I’m a Data Scientist
 - 🌱 My work involves more R and Python. Currently upskilling in Django
-- 📫 You can reach me via banji@banjialo.com
-- 🌱 Check out my articles on Medium - https://banjialo.medium.com
+- 🌱 Check out my articles on Medium - https://banjialo.com
 
 <!---
 banjialo/banjialo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
